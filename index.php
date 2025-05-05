@@ -29,7 +29,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/multiplication_chart.png" alt="Multiplication Chart" />
+        <img src="./images/triangle.png" alt="Types of Triangle" />
       </div>
       <div class="page-content">Please enter in the length of the 3 sides of your triangle.</div>
       <br />
